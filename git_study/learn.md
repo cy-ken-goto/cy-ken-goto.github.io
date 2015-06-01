@@ -73,8 +73,7 @@
   * 今回の講習用の中央リポジトリURLを追加してcloneしてください
   * もし一度cloneに失敗して再度cloneしたい場合はcloneしたディレクトリを削除しましょう
   ![alt text](img/SourceTree04-2.png?raw=true)
-    * URL:      <code>https://github.com/CYBIRD/【チーム名】</code>
-      * 例 TeamAなら <code>https://github.com/CYBIRD/TeamA</code> と入力
+    * URL:      <code>https://github.com/cy-ken-goto/git_test.git</code>
     * フォルダはURLを入力後、入力欄をクリックすると自動入力されます
 
 1. 他人の変更したファイルをダウンロードしよう
