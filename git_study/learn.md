@@ -67,17 +67,6 @@
 
 ##### さわってみよう
 
-1. proxy設定追加
-  * 社内のPCで動いているSourceTreeがインターネットに出るために必要な設定を行います
-  * 以下ファイルを秀丸などで編集しましょう
-  * C:¥Users¥n00823(社員番号)¥.gitconfig
-  * 以下内容を追記しましょう
-
-  ~~~.gitconfig
-  [http]
-      sslVerify = false
-      proxy = http://proxy.intra.cybird.co.jp:8080
-  ~~~
 1. GitHubからファイルをダウンロードしよう
   * 以下の○がついたところをクリック
   ![alt text](img/SourceTree04-1.png?raw=true)
