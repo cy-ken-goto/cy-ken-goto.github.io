@@ -4,13 +4,13 @@
 ### 編集してcommitしてみよう
 
   * 課題：<code>【名前メールアドレスの@の前】.txt</code> に自己紹介を書いてください。
-    1. ファイル名の例。<code>yoshikazu_umino@cybird.co.jp</code> なら <code>yoshikazu_umino.txt</code> としてください。
+    1. ファイル名の例。<code>ken_goto@cybird.co.jp</code> なら <code>ken_goto.txt</code> としてください。
     1. 名前
     1. 興味のあること。趣味なり技術ネタなり。
     1. 今後の抱負
 
   * HINT: コミットの仕方がわからない場合は以下をみてみよう
-  * https://github.com/CYBIRD/git_study/blob/master/learn.md#git-sourcetree
+  * https://github.com/cy-ken-goto/cy-ken-goto.github.io/blob/master/git_study/learn.md#git-sourcetree
 
 ### 中央リポジトリにpushしてみよう
 
@@ -19,7 +19,7 @@
   * HINT: 中央リポジトリに変更が無いので、一人目のpushはなにもおこらず、うまくいくはずです。
   * HINT: 中央リポジトリの変更を取り込んだあとに, 自分の変更を中央リポジトリに反映する必要があります。
   * HINT: PUSHの仕方及びPUSHが失敗した際の対策がわからない場合は以下をみてみよう
-  * https://github.com/CYBIRD/git_study/blob/master/learn.md#git-sourcetree
+  * https://github.com/cy-ken-goto/cy-ken-goto.github.io/blob/master/git_study/learn.md#git-sourcetree
 
 
 ## グループワーク
